@@ -26,7 +26,7 @@ Installation: Install the required packages listed in `requirements.txt`.
    ```bash
    pip install -r requirements.txt
 Data Preparation: Ensure that the NSFAS and University of Limpopo CSV files are available and correctly located. Update the file paths in the code if necessary.
-Running the Application: Execute the main script fraud_detection.py.
+Running the Application: Execute the main script Fraud Detection.py.
 bash
 python fraud_detection.py
 Result Analysis: Check the output for model evaluation metrics and the confirmation code sent via SMS.

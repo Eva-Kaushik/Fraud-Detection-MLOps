@@ -31,6 +31,3 @@ bash
 python fraud_detection.py
 Result Analysis: Check the output for model evaluation metrics and the confirmation code sent via SMS.
 
-## Contributing
-Contributions are welcome! Please feel free to submit pull requests or open issues for any suggestions, bug fixes, or improvements.
-python Fraud Detection.py

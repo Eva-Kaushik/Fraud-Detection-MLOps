@@ -1,5 +1,5 @@
 # Fraud-Detection-MLOps
-#### Fraud Detection System
+## Fraud Detection System
 
 ## Overview
 The Fraud Detection System is an AI-powered application designed to detect fraudulent activities in financial transactions. It leverages machine learning techniques to analyze historical data and predict the likelihood of a transaction being fraudulent.

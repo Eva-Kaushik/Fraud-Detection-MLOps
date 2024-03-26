@@ -22,14 +22,14 @@ The Fraud Detection System is an AI-powered application designed to detect fraud
 - Other dependencies listed in `requirements.txt`
 
 ## Usage
-1. **Installation**: Install the required packages listed in `requirements.txt`.
+Installation: Install the required packages listed in `requirements.txt`.
    ```bash
    pip install -r requirements.txt
-## Data Preparation: Ensure that the NSFAS and University of Limpopo CSV files are available and correctly located. Update the file paths in the code if necessary.
-## Running the Application: Execute the main script fraud_detection.py.
+Data Preparation: Ensure that the NSFAS and University of Limpopo CSV files are available and correctly located. Update the file paths in the code if necessary.
+Running the Application: Execute the main script fraud_detection.py.
 bash
 python fraud_detection.py
-## Result Analysis: Check the output for model evaluation metrics and the confirmation code sent via SMS.
+Result Analysis: Check the output for model evaluation metrics and the confirmation code sent via SMS.
 
 ## Contributing
 Contributions are welcome! Please feel free to submit pull requests or open issues for any suggestions, bug fixes, or improvements.
